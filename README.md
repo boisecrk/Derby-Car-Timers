@@ -1,4 +1,6 @@
-# Derby-Car-Timer
+# Derby-Car-Timer  
+Not the best setup, I would rather use I2C, I'm working on that now to simplify down to 1 Nano and 6 wires total for LCD communication  
+
 Timer for a 3 lane Derby Car Track 
 
 Using 3 Arduino Nanos, one for each lane.  
