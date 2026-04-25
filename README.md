@@ -9,6 +9,11 @@ Using photoelectric switches as the stop button at finish line
 Mount stop line switches to underside of track or build a finish line tower and mount everything inside there.  
 ~30ft track, running CAT-6 using 6/8 wires from controller and LCD bundle up to Start and Reset button at Start Line  
 
+Parts List 3 x Arduino Nano  
+3 x LCD Display  
+3 x Photoelectric Switch  
+1 x Button for Start  
+1 x Button for Reset  
   
 Wiring from LCD Display to Arduino Nano   
 LCD | ARD  | Color  
