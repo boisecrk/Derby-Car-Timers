@@ -28,5 +28,5 @@ Control Functions
 DPin 2 Start (Button or Microswitch)  
 DPin 3 Stop and Hold Time for Lane 1 (Photoelectric Switches)  
 DPin 4 top and Hold Time for Lane 2 (Photoelectric Switches)  
-DPin 5 Stop and Hold Time for Lane 1 (Photoelectric Switches)  
+DPin 5 Stop and Hold Time for Lane 3 (Photoelectric Switches)  
 DPin 6 Reset (Button)
